@@ -37,5 +37,8 @@ This is a full-stack employee management application built using **ASP.NET Core 
 - Bootstrap for styling
 - React Router (if routing is used)
 
+### Database
+
+- MSSQL
 
 
